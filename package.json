@@ -1,0 +1,16 @@
+{
+  "name": "poems-syncer",
+  "version": "1.0.0",
+  "description": "Syncs poems for ajulea.com from allpoetry.com to ajulea.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-html-parser": "^6.1.12"
+  },
+  "type": "module"
+}
+
